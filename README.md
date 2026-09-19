@@ -15,11 +15,12 @@ O **ATS Match Tech** é um otimizador 100% client-side:
 
 Nicho: **Vagas de tecnologia - Estágio e Junior - Frontend / Fullstack**
 
-## 2. Link da Aplicação Publicada
+## 2. Link da Aplicação
 
-**URL Lovable:** https://captured-visage.lovable.app/
+**URL Publicada:** https://captured-visage.lovable.app
+**Preview Lovable:** https://lovable.dev/preview/0wMEfYBT5Ta5v1Gb4DYUHmmvfniCKLvb
 
-> Substitua pelo seu link real após clicar em Publish no Lovable
+**Exemplo de Teste:** Score 76% -> 86% de compatibilidade alta após correção de stopwords (buscamos, nacoes)
 
 **Repositório:** https://github.com/golberysantos/ats-match-tech
 
