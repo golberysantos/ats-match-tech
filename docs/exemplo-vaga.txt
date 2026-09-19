@@ -1,0 +1,14 @@
+Título: Desenvolvedor Frontend Junior - React
+Empresa: Tech Startup
+
+Descrição:
+Buscamos Desenvolvedor Frontend Junior com conhecimentos em:
+- React.js e Next.js
+- JavaScript ES6+, TypeScript
+- HTML5, CSS3, Tailwind CSS
+- Consumo de APIs REST
+- Git e GitHub
+- Noções de Scrum e metodologias ágeis
+- Diferencial: Docker, AWS
+
+Responsabilidades: Desenvolver interfaces, consumir APIs, participar de dailies.
