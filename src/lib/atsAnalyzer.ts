@@ -22,7 +22,7 @@ const TECH_KEYWORDS_BASE = [
   'sql','nosql','docker','aws','scrum','agile'
 ];
 
-const STOPWORDS = new Set(['para','com','como','esta','essa','pela','pelo','uma','onde','seu','sua','dos','das','nos']);
+const STOPWORDS = new Set(['para','com','como','esta','essa','pela','pelo','uma','onde','seu','sua','dos','das','nos','buscamos','nacoes','vaga','dev','solucoes','tecnologia','buscamos']);
 
 export function extrairKeywordsDaVaga(descricao: string): string[] {
   const normalizada = descricao.toLowerCase()
