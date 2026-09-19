@@ -17,7 +17,8 @@ Nicho: **Vagas de tecnologia - Estágio e Junior - Frontend / Fullstack**
 
 ## 2. Link da Aplicação Publicada
 
-**URL Lovable:** https://[SEU-LINK].lovable.app
+**URL Lovable:** https://captured-visage.lovable.app/
+
 > Substitua pelo seu link real após clicar em Publish no Lovable
 
 **Repositório:** https://github.com/golberysantos/ats-match-tech
