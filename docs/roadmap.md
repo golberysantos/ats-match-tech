@@ -215,4 +215,3 @@ npm i && npm run dev
 - [ ] Sem `.env` com token
 - [ ] Print da análise na pasta `/docs`
 
-Quer que eu já gere o `PRD.md`, `MEGA_PROMPT.md` e `README.md` como arquivos prontos para você dar push? Me diga o nome do repo que quer usar que eu já crio os 3 arquivos aqui.
